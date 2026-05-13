@@ -90,9 +90,9 @@ $ whoami
 <!-- Ganti link dengan project kamu yang asli -->
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sky-last&repo=NAMA-REPO-1&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&icon_color=bf00ff)](https://github.com/Sky-last/NAMA-REPO-1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sky-last&repo=NAMA-REPO-1&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&icon_color=bf00ff)](https://github.com/Sky-last/Mobile-app.git)
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sky-last&repo=NAMA-REPO-2&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&icon_color=bf00ff)](https://github.com/Sky-last/NAMA-REPO-2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sky-last&repo=NAMA-REPO-2&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&icon_color=bf00ff)]([https://github.com/Sky-last/NAMA-REPO-2](https://github.com/Sky-last/api_arifin.git)
 
 </div>
 
