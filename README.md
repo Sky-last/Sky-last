@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- HEADER ANIMASI (generate di: https://capsule-render.vercel.app) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,100:bf00ff&height=200&section=header&text=%5B%20YOUR_NAME%20%5D&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%2F%2F%20Interface%20Architect&descSize=14&descAlignY=58&descColor=00ffe1&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,100:bf00ff&height=200&section=header&text=M.%20Arifin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%2F%2F%20Interface%20Architect&descSize=14&descAlignY=58&descColor=00ffe1&animation=fadeIn)
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FFE1&center=true&vCenter=true&width=500&lines=crafting_digital_interfaces.exe;status%3A+%5B+ONLINE+%5D;open+to+opportunities+%3A%3A+Indonesia)](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 
 ```bash
 $ whoami
-> [NAMA_KAMU] — Frontend Developer based in Indonesia 🇮🇩
+> M. Arifin — Frontend Developer based in Indonesia 🇮🇩
 > Focused on: UI/UX, Web Performance, Creative Interfaces
 > Status: Open to Work ✅
 ```
