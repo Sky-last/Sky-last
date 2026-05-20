@@ -1,160 +1,126 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!--           GITHUB PROFILE README — CYBERPUNK        -->
-<!--     Ganti semua [USERNAME], [NAMA], dst sesuai     -->
-<!--             kamu sebelum di-upload                 -->
-<!-- ═══════════════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=M.%20Arifin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20sky-last&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+</div>
 
 <div align="center">
 
-<!-- HEADER ANIMASI (generate di: https://capsule-render.vercel.app) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,100:bf00ff&height=200&section=header&text=M.%20Arifin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%2F%2F%20Interface%20Architect&descSize=14&descAlignY=58&descColor=00ffe1&animation=fadeIn)
+<a href="https://github.com/sky-last">
+  <img src="https://avatars.githubusercontent.com/u/191767790?v=4" width="110" style="border-radius:50%;" alt="M. Arifin"/>
+</a>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FFE1&center=true&vCenter=true&width=500&lines=crafting_digital_interfaces.exe;status%3A+%5B+ONLINE+%5D;open+to+opportunities+%3A%3A+Indonesia)](https://git.io/typing-svg)
+<br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+M.+Arifin+%E2%80%94+sky-last;Building+things+for+the+web+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://github.com/sky-last)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sky-last&label=Profile+Views&color=0ea5e9&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/sky-last?label=Followers&style=flat-square&color=0ea5e9&logo=github)](https://github.com/sky-last?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/sky-last?label=Stars&style=flat-square&color=f59e0b&logo=github)](https://github.com/sky-last)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-> M. Arifin — Frontend Developer based in Indonesia 🇮🇩
-> Focused on: UI/UX, Web Performance, Creative Interfaces
-> Status: Open to Work ✅
+## 👨‍💻 About Me
+
+```ts
+const arifin = {
+  name        : "M. Arifin",
+  alias       : "sky-last",
+  location    : "Medan, North Sumatra, Indonesia",
+  role        : "Full Stack Developer",
+
+  currentFocus: ["Web Development", "Clean Architecture", "Open Source"],
+  learning    : ["React.js", "TypeScript", "Laravel", "Node.js"],
+  goals       : ["Build impactful products", "Master modern web stack"],
+
+  motto       : "Less talk, more commit.",
+};
 ```
 
 ---
 
-## `[ TECH_STACK ]`
+## 🛠️ Tech Stack
 
-<!-- FRONTEND -->
-**Frontend**
+### ⚡ Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00ffe1)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00ffe1)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=42d392)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 🔧 Back-End & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Styling & UI**
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=bf00ff)
-![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)
-
-**Tools & Ecosystem**
-
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
----
-
-## `[ GITHUB_STATS ]`
-
-<div align="center">
-
-<!-- Ganti 'YOUR-USERNAME' dengan username GitHub kamu -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sky-last&show_icons=true&theme=radical&bg_color=0d1117&border_color=00ffe1&icon_color=bf00ff&title_color=00ffe1&text_color=c0faf4&ring_color=00ffe1" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-last&layout=compact&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Sky-last&theme=radical&background=0D1117&border=00ffe1&stroke=bf00ff&ring=00ffe1&fire=ff2d7e&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=7affd4" />
-
-</div>
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## `[ CONTRIBUTION_GRAPH ]`
+## 📊 GitHub Stats
 
-<!-- Snake animation — setup instruksi di bawah README ini -->
 <div align="center">
 
-![snake gif](https://github.com/Sky-last/Sky-last/blob/output/github-contribution-grid-snake-dark.svg)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sky-last&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky-last&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sky-last&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sky-last&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sky-last&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 
 </div>
 
 ---
 
-## `[ FEATURED_PROJECTS ]`
+## 🌐 Connect With Me
 
-<!-- Ganti link dengan project kamu yang asli -->
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sky-last&repo=NAMA-REPO-1&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&icon_color=bf00ff)](https://github.com/Sky-last/NAMA-REPO-1)
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Sky-last&repo=NAMA-REPO-2&theme=radical&bg_color=0d1117&border_color=00ffe1&title_color=00ffe1&text_color=c0faf4&icon_color=bf00ff)](https://github.com/Sky-last/NAMA-REPO-2)
+[![GitHub](https://img.shields.io/badge/GitHub-sky--last-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sky-last)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-## `[ ACTIVITY ]`
-
-<!--START_SECTION:waka-->
-<!-- Ini akan auto-update jika kamu setup WakaTime (lihat instruksi di bawah) -->
-<!--END_SECTION:waka-->
-
----
-
-## `[ CONNECT ]`
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00ffe1&label=🌐)](https://YOUR-PORTFOLIO.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/YOUR-TWITTER)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR-IG)
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+<br/>
+
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sky-last&color=00ffe1&style=for-the-badge&label=SYSTEM+VISITORS)
-
-<!-- FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,100:00ffe1&height=100&section=footer)
-
-</div>
-
----
-
-<!--
-═══════════════════════════════════════════════════════
-  CARA SETUP:
-
-  1. BUAT REPO BARU dengan nama = username GitHub kamu
-     Contoh: github.com/johndoe/johndoe
-
-  2. GANTI SEMUA 'YOUR-USERNAME' dengan username kamu
-
-  3. SNAKE ANIMATION:
-     - Buat file .github/workflows/snake.yml di repo profile kamu
-     - Isi dengan workflow dari:
-       https://github.com/Platane/snk#usage
-
-  4. WAKATIME (opsional, tampilkan jam coding):
-     - Daftar di wakatime.com
-     - Install ekstensi WakaTime di VS Code
-     - Setup GitHub Action: github.com/anmol098/waka-readme-stats
-
-  5. TYPING ANIMATION:
-     - Edit teks di URL badge readme-typing-svg
-     - Ganti kata setelah &lines= dengan kalimatmu
-     - Spasi = + , baris baru = pisah dengan ;
-
-═══════════════════════════════════════════════════════
--->
