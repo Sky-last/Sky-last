@@ -31,7 +31,7 @@
 const arifin = {
   name        : "M. Arifin",
   alias       : "sky-last",
-  location    : "Medan, North Sumatra, Indonesia",
+  location    : "Lubuk Pakam, North Sumatra, Indonesia",
   role        : "Full Stack Developer",
 
   currentFocus: ["Web Development", "Clean Architecture", "Open Source"],
