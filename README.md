@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sky-last">
+<a href="https://github.com/Sky-last">
   <img src="https://avatars.githubusercontent.com/u/191767790?v=4" width="110" style="border-radius:50%;" alt="M. Arifin"/>
 </a>
 
