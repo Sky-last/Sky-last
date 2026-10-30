@@ -8,7 +8,12 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Firebase+Builder+%F0%9F%93%B1;Less+talk%2C+more+commit+%E2%9C%A8)](https://github.com/sky-last)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=0EA5E9&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Firebase+Builder+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%A7%B1;Less+talk%2C+more+commit+%E2%9C%A8)](https://github.com/sky-last)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sky--last-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sky-last)
+[![Email](https://img.shields.io/badge/Email-Kirim_Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
 
 <br/>
 
@@ -37,6 +42,16 @@ const arifin = {
 
 Saya membangun aplikasi end-to-end — dari UI mobile sampai backend Firebase/Laravel — dengan fokus pada arsitektur yang rapi dan pengalaman pengguna yang sederhana.
 
+<details>
+<summary><b>🎯 Yang sedang saya kejar tahun ini</b></summary>
+
+- Menyelesaikan **Growmon** sampai rilis stabil di Play Store
+- Mendalami **TypeScript + React** untuk sisi web
+- Menulis lebih banyak **unit test** (target: coverage 70%+)
+- Mulai berkontribusi ke **open source**
+
+</details>
+
 ---
 
 ## 🚧 Sedang Dikerjakan
@@ -54,6 +69,12 @@ Saya membangun aplikasi end-to-end — dari UI mobile sampai backend Firebase/La
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nextjs,ts,js,laravel,php,nodejs,mysql,postgres,git,github,vscode,androidstudio&theme=dark&perline=8" alt="Tech Stack"/>
+
+</div>
 
 **Mobile**
 
@@ -123,6 +144,28 @@ Saya membangun aplikasi end-to-end — dari UI mobile sampai backend Firebase/La
 
 </div>
 
+### 🐍 Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sky-last/sky-last/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sky-last/sky-last/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animasi kontribusi" src="https://raw.githubusercontent.com/sky-last/sky-last/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 💬 Kutipan Hari Ini
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Kutipan"/>
+
+</div>
+
 ---
 
 ## 🌐 Hubungi Saya
@@ -132,11 +175,7 @@ Saya membangun aplikasi end-to-end — dari UI mobile sampai backend Firebase/La
 [![GitHub](https://img.shields.io/badge/GitHub-sky--last-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sky-last)
 [![Email](https://img.shields.io/badge/Email-Kirim_Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
 
