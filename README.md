@@ -105,7 +105,7 @@ const arifin = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sky--last-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sky-last)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdarifn2404@email.com)
 
 </div>
 
